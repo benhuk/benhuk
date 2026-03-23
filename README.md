@@ -1,6 +1,6 @@
 # Felipe Benhuk
 
-<p>Estudante de Ciência da Computação · UTFPR · Brasil &nbsp;·&nbsp; <a href="https://felipebdorosario.com">felipebdorosario</a></p>
+Estudante de Ciência da Computação · UTFPR · Brasil
 
 ---
 
@@ -17,10 +17,16 @@
 **Stats**
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=benhuk&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benhuk&layout=compact&theme=default&hide_border=true&langs_count=5" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=benhuk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benhuk&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=benhuk&theme=default&hide_border=true&locale=pt_BR" />
+  <img src="https://streak-stats.demolab.com?user=benhuk&theme=tokyonight&hide_border=true&locale=pt_BR" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/benhuk/benhuk/output/github-contribution-grid-snake-dark.svg" />
 </p>
