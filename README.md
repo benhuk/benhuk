@@ -1,7 +1,8 @@
 # Felipe Benhuk
 
 Estudante de Ciência da Computação · UTFPR · Brasil
-
+- 💻 Desenvolvedor no **Clube do Volante**
+- 🚀 Estagiário na **Lions Startups**
 ---
 
 **Linguagens**
