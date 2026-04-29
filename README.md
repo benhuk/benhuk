@@ -2,7 +2,6 @@
 
 Estudante de Ciência da Computação · UTFPR · Brasil
 - 💻 Desenvolvedor no **[Clube do Volante](https://clubedovolante.com.br/)**
-- 🚀 Estagiário na **[Lions Startups](https://lionsstartups.com.br/)**
 ---
 
 **Linguagens**
